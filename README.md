@@ -1,6 +1,6 @@
 # Computer-Vison-CS780
 
-● Operated images processing on Grayscale images and Binary images on low-level vision;
+● Operated images processing on Grayscale images and Binary images on low-level vision; /br
 ● Performed image filtering in noise suppression by using Gaussian Smoothing, Median Filter, Mode Filter on Grayscale images; and applied Morphological operation technique Dilation, Erosion, closing and opening to remove noise for images; 
 ● Selected accurate threshold by using Deepest Concavity and Bi-Means Gaussian Curve Fitting threshold selection under with histogram;
 ● using C++ and Java programming language to Implement Edge Detection Operation, Robert's Operator, Sobel's Operator, Gradient, Zero-Crossing, Canny's Operator, and Binary Edge Detector.
